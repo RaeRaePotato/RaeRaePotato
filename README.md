@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RaeRaePotato
-- 👀 I’m interested in ... Playing video games and watching anime
-- 🌱 I’m currently learning ... How to code on rstudio and gitbash plus python
-- 💞️ I’m looking to collaborate on ... nothing at the moment
-- 📫 How to reach me ... dont?
+- 👋 Hi, I’m Rachelle Difilippo
+- 👀 I’m interested in ... Bringing my visions to life.
+- 🌱 I’m currently learning ... How to write Java code.
+- 💞️ I’m looking to collaborate on ... Software Application codes.
+- 📫 How to reach me ... Via preferred email.
 
 <!---
 RaeRaePotato/RaeRaePotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
